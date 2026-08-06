@@ -1,0 +1,16 @@
+[
+    {
+        "name": "najam",
+        "roll_no": 45,
+        "age": 66,
+        "marks": 87.0,
+        "result": "Good"
+    },
+    {
+        "name": "hadi",
+        "roll_no": 66,
+        "age": 66,
+        "marks": 99.0,
+        "result": "Excellent"
+    }
+]
