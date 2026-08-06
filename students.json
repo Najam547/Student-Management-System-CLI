@@ -1,16 +1,9 @@
 [
     {
-        "name": "najam",
-        "roll_no": 45,
-        "age": 66,
-        "marks": 87.0,
-        "result": "Good"
-    },
-    {
-        "name": "hadi",
+        "name": "abdullah",
         "roll_no": 66,
-        "age": 66,
-        "marks": 99.0,
-        "result": "Excellent"
+        "age": 20,
+        "marks": 89.0,
+        "result": "Good"
     }
 ]

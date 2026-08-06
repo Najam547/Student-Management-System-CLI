@@ -158,6 +158,8 @@ def delete_student():
                 print("Student deleted successfully.")
             else :
                 print("Nothing matches the student you want to delete.")
+        else :
+            print("Invalid Input.")
            
 def display_students():
     Students = load_students()
